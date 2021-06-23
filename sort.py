@@ -109,5 +109,5 @@ class FileSort:
 window = Tk()  # Creates parent on which the GUI will be built
 picture = PhotoImage(file="737385.png")  # Image for GUI background
 helpPic = PhotoImage(file="help pic.png")  # Information for help button
-one = FileSort(window)  # Create an instance of the GUI
+gui = FileSort(window)  # Create an instance of the GUI
 window.mainloop()  # Runs the GUI
