@@ -1,5 +1,7 @@
 # Sorting-App
-A file sorting app created for my last project in CS3. 
+A file sorting app created for my last project in CS3.  
+Note: I am aware that there are code hygiene problems with the code. I am now going back and fixing them because I have learned from my professor the best practices for code hygiene.
+
 Desription
 -----------------
 This app will sort a user chosen folder by the file types within it. It will also sort files of the same type alpbatically and is able to sort folders within the chosen folder.   The goal of this application to help people be more organized, and as a result, boost their productivity.  
